@@ -1,5 +1,8 @@
 # Panel Slider Custom Element - Yootheme
 
+![Panel Slider](https://github.com/pauloguerraf/yootheme_PanelSlider/blob/main/screenshot.jpg "Screenshot")
+
+
 ## Instalación
 
 ### WordPress
